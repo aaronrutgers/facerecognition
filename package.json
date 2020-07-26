@@ -1,6 +1,6 @@
 {
   "name": "facerecognitionbrain",
-  "homepage": "https://aaronrutgers.github.io/FaceRecognition",
+  "homepage": "https://aaronrutgers.github.io/facerecognition",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
